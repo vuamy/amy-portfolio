@@ -25,9 +25,10 @@ function App() {
           </p>
           <h3 className="text-lg font-medium py-2 mt-8"> My Skills Include: </h3>
           <ul className="p-1">
-            <li>HTML5, CSS, and Javascript</li>
-            <li>React and React Native</li>
+            <li>HTML5 and CSS</li>
+            <li>Javascript and React</li>
             <li>SASS, TailwindCSS, and Bootstrap</li>
+            <li>Git and Github</li>
           </ul>
         </section>
 
