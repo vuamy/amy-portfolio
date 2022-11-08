@@ -1,7 +1,7 @@
 {
   "name": "amy-portfolio",
   "version": "0.1.0",
-  "homepage": "https://vuamy.github.io/amy-portfolio",
+  "homepage": "https://github.com/vuamy/amy-portfolio.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
