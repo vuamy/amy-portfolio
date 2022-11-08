@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amy-portfolio/static/css/main.e58437e0.css",
+    "main.js": "/amy-portfolio/static/js/main.de273630.js",
+    "static/js/787.39ebc55f.chunk.js": "/amy-portfolio/static/js/787.39ebc55f.chunk.js",
+    "index.html": "/amy-portfolio/index.html",
+    "main.e58437e0.css.map": "/amy-portfolio/static/css/main.e58437e0.css.map",
+    "main.de273630.js.map": "/amy-portfolio/static/js/main.de273630.js.map",
+    "787.39ebc55f.chunk.js.map": "/amy-portfolio/static/js/787.39ebc55f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e58437e0.css",
+    "static/js/main.de273630.js"
+  ]
+}
