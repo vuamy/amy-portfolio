@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/amy-portfolio/static/css/main.e58437e0.css",
-    "main.js": "/amy-portfolio/static/js/main.de273630.js",
-    "static/js/787.39ebc55f.chunk.js": "/amy-portfolio/static/js/787.39ebc55f.chunk.js",
-    "index.html": "/amy-portfolio/index.html",
-    "main.e58437e0.css.map": "/amy-portfolio/static/css/main.e58437e0.css.map",
-    "main.de273630.js.map": "/amy-portfolio/static/js/main.de273630.js.map",
-    "787.39ebc55f.chunk.js.map": "/amy-portfolio/static/js/787.39ebc55f.chunk.js.map"
+    "main.css": "/vuamy/amy-portfolio/static/css/main.e58437e0.css",
+    "main.js": "/vuamy/amy-portfolio/static/js/main.2843e9db.js",
+    "static/js/787.39ebc55f.chunk.js": "/vuamy/amy-portfolio/static/js/787.39ebc55f.chunk.js",
+    "index.html": "/vuamy/amy-portfolio/index.html",
+    "main.e58437e0.css.map": "/vuamy/amy-portfolio/static/css/main.e58437e0.css.map",
+    "main.2843e9db.js.map": "/vuamy/amy-portfolio/static/js/main.2843e9db.js.map",
+    "787.39ebc55f.chunk.js.map": "/vuamy/amy-portfolio/static/js/787.39ebc55f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e58437e0.css",
-    "static/js/main.de273630.js"
+    "static/js/main.2843e9db.js"
   ]
 }
