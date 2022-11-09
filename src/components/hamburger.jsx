@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
-const Nav = () => {
+const Hamburger = () => {
         
     return (
-            <div className="bg-zinc-100 shadow-md flex justify-center md:justify-between items-center px-6 py-3 fixed top-0 right-0 left-0">
-                <h1 className="text-lg font-medium hidden md:block"> Amy Vu </h1>
+            <div className="bg-zinc-100 shadow-md flex justify-between items-center px-6 py-3 fixed top-0 right-0 left-0">
+                <h1 className="text-lg font-medium"> Amy Vu </h1>
                 <div className="flex items-center">
                     <button onClick={() => document.getElementById('about-me').scrollIntoView({behavior: "smooth"})} 
                         className="pl-4 text-zinc-800 font-medium transition duration-50 hover:text-zinc-500">
@@ -23,4 +23,4 @@ const Nav = () => {
         );
 }
  
-export default Nav;
+export default Hamburger;

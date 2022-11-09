@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="bg-zinc-50">
       <Nav/>
+
       <main className="pt-12">
         <section className="text-center p-10 mt-12">
           <h2 className="text-3xl font-semibold"> Hi! I'm Amy Vu </h2>
