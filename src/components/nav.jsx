@@ -8,13 +8,13 @@ const Nav = () => {
                 <div className="flex items-center">
                     <button onClick={() => document.getElementById('about-me').scrollIntoView({behavior: "smooth"})} 
                         className="pl-4 text-zinc-800 font-medium transition duration-50 hover:text-zinc-500">
-                        About Me </button>
+                        About </button>
                     <button onClick={() => document.getElementById('projects').scrollIntoView({behavior: "smooth"})} 
                         className="pl-4 text-zinc-800 font-medium transition duration-50 hover:text-zinc-500">
                         Projects </button>
                     <button onClick={() => document.getElementById('contact-me').scrollIntoView({behavior: "smooth"})} 
                         className="pl-4 text-zinc-800 font-medium transition duration-50 hover:text-zinc-500">
-                        Contact Me </button>
+                        Contact </button>
                     <a href="https://docs.google.com/document/d/1xcvsQ6Xp8mV4zG7rozNoHUc7MnBDKrufeBlWuta1dEE/edit?usp=sharing" target="_blank">
                         <button className="ml-4 bg-zinc-600 transition duration-50 hover:bg-zinc-700 text-white py-1 px-4 rounded-full">Resume</button>
                     </a>
