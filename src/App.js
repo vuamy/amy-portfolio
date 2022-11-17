@@ -40,9 +40,11 @@ function App() {
           <div className="flex justify-center">
             <div className="p-5 shadow-md bg-zinc-800 text-white flex flex-col rounded-md max-w-md">
               <h4 className="text-lg font-medium text-left"> KSCU Website </h4>
-              <img className="p-5 items-center" src="/kscu-web.png" alt="Homepage of KSCU Website"></img>
+              <img className="p-5 items-center" src="/kscu-site.png" alt="Homepage of KSCU Website"></img>
               <div className="flex justify-end">
-                <button className="py-1 px-3 ml-3 text-zinc-800 bg-zinc-100 rounded-full font-medium transition duration-50 hover:bg-zinc-300">Website</button>
+                <a href="https://deploy-preview-32--kscu-staging.netlify.app/" target="_blank">
+                  <button className="py-1 px-3 ml-3 text-zinc-800 bg-zinc-100 rounded-full font-medium transition duration-50 hover:bg-zinc-300">Website</button>
+                </a>
                 <a href="https://github.com/KSCU-radio/kscu-site" target="_blank">
                   <button className="py-1 px-3 ml-3 text-zinc-800 bg-zinc-100 rounded-full font-medium transition duration-50 hover:bg-zinc-300">Github</button>
                 </a>
